@@ -6,16 +6,10 @@
 }
 */
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 /* FONTES */
 @font-face {
-  font-family: Ananda;
-  src: url("../assets/fonts/ananda_2/Ananda\ Personal\ Use.ttf") format(truetype);
+  font-family: Birthstone;
+  src: url("../assets/fonts/Birthstone/Birthstone-Regular.ttf") format(truetype);
   font-weight: 400;
   font-style: normal;
 }

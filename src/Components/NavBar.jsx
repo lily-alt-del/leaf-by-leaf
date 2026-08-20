@@ -45,14 +45,6 @@ export default function NavBar() {
                             </a>
                         </li>
 
-                        <li>
-                            <a
-                                href="/contact"
-                                className="transition-colors duration-300 hover:text-green-500 link-animado"
-                            >
-                                Contato
-                            </a>
-                        </li>
                     </ul>
 
                     {/* Botão Mobile */}

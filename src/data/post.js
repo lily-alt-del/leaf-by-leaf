@@ -4,20 +4,19 @@ const posts = [
         slug: "plantas-faceis-de-cuidar",
         title: "5 plantas fáceis de cuidar",
         description:
-            "Conheça algumas plantas perfeitas para quem está começando a criar seu próprio jardim.",
+            "Descubra plantas perfeitas para quem está começando a criar seu próprio jardim.",
         image: "/images/plantas-faceis.jpg",
-        date: "15 de agosto de 2026",
+        date: "18 de agosto de 2026",
+        category: "Cuidados",
 
         content: [
-            "Cuidar de plantas pode ser uma experiência muito gratificante. Além de deixar os ambientes mais bonitos, elas podem trazer uma sensação de tranquilidade para o dia a dia.",
+            "Ter plantas em casa pode transformar completamente um ambiente. Além de trazer mais vida e beleza, cuidar de um jardim pode ser uma atividade muito relaxante.",
 
-            "Se você está começando agora, existem diversas espécies que não exigem cuidados muito complexos.",
+            "Se você está começando agora, algumas espécies são mais indicadas porque não exigem cuidados tão complexos.",
 
-            "A zamioculca, por exemplo, é uma ótima opção para iniciantes. Ela consegue se adaptar bem a ambientes internos e não precisa ser regada com muita frequência.",
+            "Suculentas, zamioculcas e jiboias são alguns exemplos de plantas que podem ser ótimas companheiras para quem ainda está aprendendo sobre jardinagem.",
 
-            "Outra opção interessante são as suculentas. Elas armazenam água em suas folhas e, por isso, conseguem passar alguns dias sem receber água.",
-
-            "O mais importante é observar as necessidades de cada espécie e descobrir quais plantas combinam melhor com o seu espaço."
+            "O mais importante é conhecer as necessidades de cada espécie, observar a quantidade de luz disponível e evitar o excesso de água."
         ]
     },
 
@@ -26,18 +25,17 @@ const posts = [
         slug: "plantas-seguras-para-pets",
         title: "Plantas seguras para pets",
         description:
-            "Descubra algumas plantas que podem deixar sua casa mais verde sem abrir mão dos cuidados com seus animais.",
+            "Veja algumas opções para deixar sua casa mais verde sem deixar de lado o bem-estar dos seus companheiros.",
         image: "/images/plantas-pets.jpg",
-        date: "10 de agosto de 2026",
+        date: "15 de agosto de 2026",
+        category: "Pets",
 
         content: [
-            "Quem possui animais de estimação precisa ter alguns cuidados na hora de escolher as plantas que ficarão dentro de casa.",
+            "Quem possui animais de estimação precisa ter alguns cuidados na hora de escolher as plantas que farão parte da decoração da casa.",
 
-            "Algumas espécies podem ser prejudiciais para cães e gatos quando ingeridas, por isso é importante pesquisar antes de levar uma nova planta para casa.",
+            "Antes de comprar uma nova espécie, é importante pesquisar se ela é adequada para o ambiente onde vivem seus animais.",
 
-            "A escolha de espécies adequadas permite que você tenha um ambiente bonito e, ao mesmo tempo, mais seguro para seus companheiros.",
-
-            "Além da escolha da planta, também é interessante posicionar os vasos em locais onde os animais não consigam derrubá-los."
+            "Além de escolher espécies apropriadas, manter os vasos em locais seguros pode ajudar a evitar acidentes."
         ]
     },
 
@@ -48,16 +46,36 @@ const posts = [
         description:
             "Aprenda alguns cuidados básicos para manter suas suculentas bonitas e saudáveis.",
         image: "/images/suculentas.jpg",
-        date: "5 de agosto de 2026",
+        date: "10 de agosto de 2026",
+        category: "Jardinagem",
 
         content: [
-            "As suculentas são conhecidas por sua aparência encantadora e pela capacidade de armazenar água em suas folhas.",
+            "As suculentas conquistaram muitos apaixonados por plantas graças às suas formas e à facilidade de cultivo de várias espécies.",
 
-            "Apesar de serem consideradas fáceis de cuidar, isso não significa que elas não tenham necessidades específicas.",
+            "Apesar de serem resistentes, elas também precisam de alguns cuidados para crescerem de forma saudável.",
 
-            "Um dos principais cuidados é evitar o excesso de água. O solo precisa ter uma boa drenagem para evitar que as raízes permaneçam encharcadas.",
+            "Um dos principais cuidados é evitar o excesso de água. Um solo com boa drenagem é essencial para evitar problemas nas raízes.",
 
-            "Também é importante observar a quantidade de luz disponível no ambiente e escolher um local adequado para cada espécie."
+            "Também é importante encontrar um local que ofereça uma quantidade adequada de luz para a espécie escolhida."
+        ]
+    },
+
+    {
+        id: 4,
+        slug: "plantas-para-decorar-o-escritorio",
+        title: "7 plantas para decorar seu escritório",
+        description:
+            "Deixe seu espaço de trabalho mais bonito e aconchegante com plantas fáceis de cuidar.",
+        image: "/images/plantas-escritorio.jpg",
+        date: "5 de agosto de 2026",
+        category: "Decoração",
+
+        content: [
+            "Um pouco de verde pode transformar completamente um espaço de trabalho.",
+
+            "Plantas como jiboias, peperômias e zamioculcas podem ser boas opções para ambientes internos.",
+
+            "Além de escolher uma planta bonita, lembre-se de verificar a iluminação e os cuidados necessários para cada espécie."
         ]
     }
 ];
