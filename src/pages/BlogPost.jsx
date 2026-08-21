@@ -50,7 +50,7 @@ export default function BlogPost() {
 
                 {/* Imagem */}
                 <img
-                    src={post.image}
+                    src={`${import.meta.env.BASE_URL}${post.image.replace(/^\//, "")}`}
                     alt={post.title}
                     className="mt-8 h-64 w-full rounded-xl object-cover md:h-96"
                 />
