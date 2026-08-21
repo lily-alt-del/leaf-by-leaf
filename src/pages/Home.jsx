@@ -34,7 +34,7 @@ export default function Home() {
                 <h2 className="text-4xl md:text-6xl font-bold text-green-800 Birthstone underline mx-auto max-w-7xl">
                     Artigos em destaque
                 </h2>
-
+                <br />
                 {/* Cards dos Artigos */}
                 <div className="mx-auto grid max-w-7xl gap-8 sm:grid-cols-2 lg:grid-cols-3 place-self-center">
                     {featuredPosts.map((post) => (
@@ -90,6 +90,7 @@ export default function Home() {
                 </div>
             </section>
             <br />
+            
             {/* hr Personalizado */}
             <div class="flex items-center w-full">
                 <div class="grow border-t border-green-500"></div>

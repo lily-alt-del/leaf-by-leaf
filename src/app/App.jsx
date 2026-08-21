@@ -4,7 +4,7 @@ import Footer from '../Components/Footer.jsx'
 import Home from '../pages/Home.jsx'
 import Blog from '../pages/Blog.jsx'
 import BlogPost from '../pages/BlogPost.jsx'
-import About from '../Pages/About.jsx'
+import About from '../pages/About.jsx'
 
 function App() {
 

@@ -66,6 +66,19 @@ export default function BlogPost() {
 
                 </div>
 
+                <p className="mt-6 text-sm text-gray-500">
+                    {post.link && (
+                        <a
+                            href={post.link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-green-600 hover:underline"
+                        >
+                            Leia o artigo original
+                        </a>
+                    )}
+                </p>
+
                 {/* Voltar */}
                 <div className="mt-10 border-t border-gray-200 pt-6">
 
