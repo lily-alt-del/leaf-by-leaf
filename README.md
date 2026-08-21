@@ -20,8 +20,6 @@ A proposta do projeto é criar uma experiência agradável para pessoas interess
 
 O site possui uma página inicial, uma área dedicada ao blog, páginas individuais para cada artigo e outras seções que complementam a experiência do usuário.
 
-> 🌿 **Aprenda a cuidar de seu jardim, folha por folha.**
-
 ---
 
 ## ✨ Funcionalidades
@@ -192,28 +190,3 @@ Além da parte visual, o projeto também foi uma oportunidade para trabalhar com
 * Responsividade
 * Tailwind CSS
 * Estruturação de projetos React
-
----
-
-## 💚 Desenvolvido por
-
-<div align="center">
-
-### Lily dos Santos Camargo
-
-Desenvolvedora Front-end em busca da primeira oportunidade profissional na área.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU-USUARIO)
-
-</div>
-
----
-
-<div align="center">
-
-🌱 **Leaf by Leaf**
-*Aprendendo sobre plantas, folha por folha.*
-
-</div>
