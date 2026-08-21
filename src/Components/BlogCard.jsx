@@ -7,7 +7,7 @@ export default function BlogCard({ post }) {
             {/* Imagem */}
             <div className="relative overflow-hidden">
                 <img
-                    src={post.image}
+                    src={`${import.meta.env.BASE_URL}${post.image.replace(/^\//, "")}`}
                     alt={post.title}
                     className="h-60 w-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
