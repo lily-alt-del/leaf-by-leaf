@@ -21,7 +21,7 @@ export default function Home() {
                 <div className="absolute inset-0 bg-black/50 pointer-events-none"></div>
 
                 {/* Texto do Banner */}
-                <h1 className="text-4xl md:text-7xl absolute inset-30 md:inset-50 text-zinc-300 Birthstone">
+                <h1 className="text-4xl md:text-7xl absolute inset-15 md:inset-50 text-zinc-300 Birthstone">
                     Aprenda a cuidar de seu jardim
                     <br />
                     folha por folha
